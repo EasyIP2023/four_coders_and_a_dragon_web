@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+
+scp -r * fourcad@pc00.cs.siu.edu:/home/fourcad/public_html
