@@ -107,6 +107,11 @@ ul li {
 .bold {
 	font-weight: bold;
 }
+
+.pdf  {text-align: center; display: inline-block}
+.pdf img{display:block; border: none;text-decoration: underline}
+.pdf:before{content:'Download:'}
+
 /* ------------------------------------------------------------------------------
 	Header
 -------------------------------------------------------------------------------*/
