@@ -108,9 +108,15 @@ ul li {
 	font-weight: bold;
 }
 
-.pdf  {text-align: center; display: inline-block}
-.pdf img{display:block; border: none;text-decoration: underline}
-.pdf:before{content:'Download:'}
+.btn-pink {
+  background-color: #FF69B4; /* Hot Pink */
+  color: white;
+}
+
+.btn-pink:hover {
+  color: white;
+  background-color: #e60073;
+}
 
 /* ------------------------------------------------------------------------------
 	Header
